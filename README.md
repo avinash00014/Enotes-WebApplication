@@ -1,0 +1,1 @@
+Enotes Web Application:”   eNotes is a dynamic web application designed for efficient note management. Users can create, edit, and delete notes, with a streamlined interface built using Java and SQL for robust data handling.”
